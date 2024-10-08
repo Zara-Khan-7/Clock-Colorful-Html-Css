@@ -12,4 +12,4 @@
 
 📄 For full source code, contact me at linkedIn: www.linkedin.com/in/zara-yousuf-7081751b6
 
-🔗 Vercel link: 
+🔗 Vercel link: https://colorful-clock-seven.vercel.app/
